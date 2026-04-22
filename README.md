@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+%F0%9F%91%8B;Pode+me+chamar+de+Jo%C3%A3o!+%F0%9F%AB%A0;Sou+Desenvolvedor+Full-Stack;Atuo+com+Python,+Django+e+FastAPI;Desenvolvo+interfaces+com+React+%2B+Vite&repeat=true&pause=2000" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+%F0%9F%91%8B;Pode+me+chamar+de+Jo%C3%A3o!;Sou+Desenvolvedor+Full-Stack;Atuo+com+Python,+Django+e+FastAPI;Desenvolvo+interfaces+com+React+%2B+Vite&repeat=true&pause=2000" />
 </h1>
 
 ---
