@@ -6,7 +6,7 @@
 - 🎓 <strong>Graduado</strong> em Ciências da Computação - Unifor  
 - 🚀 <strong>Desenvolvedor Full-Stack Júnior</strong>  
 - 🐍 Atuação com Python, Django e FastAPI  
-- ⚛️ Desenvolvimento de interfaces modernas com React + Vite  
+- ⚛️ Desenvolvimento de interfaces com React + Vite  
 
 ## ☕ Minhas Habilidades:
 
